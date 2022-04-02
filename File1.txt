@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 untesting file
->>>>>>> first_branch
 Testing line
 Commit test
 456
